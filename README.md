@@ -1,3 +1,4 @@
+![Design Pattern](doc/header.png)
 # Design Patterns
 
 Este Projeto mostra uma ideia básica sobre Design Patterns iniciando com sua origem, sua avaliação ao longo do tempo e
