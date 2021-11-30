@@ -13,9 +13,7 @@ classe.
 Vamos criar uma classe SingletonObject. A classe SingletonObject tem seu construtor como privado e ter uma instância
 estática de si mesmo.
 
-Vamos criar uma classe SingletonObject. A classe SingletonObject tem seu construtor como privado e ter uma instância
-estática de si mesmo. A classe SingletonObject fornece um método estático para obter sua instância estática para fora
-dela. SingletonPatternDemo, nossa classe de demonstração usará a classe SingletonObject para obter uma instancia do
+A classe SingletonObject fornece um método estático para obter sua instância estática para fora dela. SingletonPatternDemo, nossa classe de demonstração usará a classe SingletonObject para obter uma instancia do
 objeto SingletonObject.
 
 ![Factory Pattern](ClassDiagram.png)
