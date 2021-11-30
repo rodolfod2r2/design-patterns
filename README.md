@@ -56,5 +56,6 @@ criacionais, estruturais e comportamentais.
 
 - #### Links Exemplos
 
+- [Singleton Pattern](src/org/framework/rodolfo/freire/git/design/patterns/singleton/doc/README.md)
 - [Factory Pattern](src/org/framework/rodolfo/freire/git/design/patterns/factory/doc/README.md)
 - [Abstract Factory Pattern](src/org/framework/rodolfo/freire/git/design/patterns/abstractfactory/doc/README.md)
