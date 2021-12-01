@@ -1,6 +1,6 @@
 # Builder Pattern
 
-Esta seção descreve o Abstract Factory Pattern e sua implementação.
+Esta seção descreve o Builder Pattern Pattern e sua implementação.
 
 O Builder Pattern constrói um objeto complexo usando objetos simples e usando um passo a passo abordagem. Este tipo de
 padrão de design vem sob o padrão de criação, pois este padrão fornece uma das melhores maneiras de criar um objeto.
