@@ -7,9 +7,6 @@ padrão de design vem sob o padrão de criação, pois este padrão fornece uma 
 
 Uma classe Builder constrói o objeto final passo a passo. Este construtor é independente de outros objetos.
 
-No padrão Abstract Factory, uma interface é responsável por criar uma fábrica de objetos relacionados, sem especificar
-explicitamente suas classes. Cada fábrica gerada pode dar os objetos de acordo com o Padrão de fábrica.
-
 ## Implementação
 
 O exemplo trata o caso de negócios de restaurante fast-food, onde uma refeição típica poderia ser um hambúrguer e uma
