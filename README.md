@@ -38,25 +38,38 @@ De acordo com o livro de referência de padrões de projeto Padrões de Projeto 
 Reutilizáveis, existem 23 padrões de projeto. Esses padrões podem ser classificados em três categorias: padrões
 criacionais, estruturais e comportamentais.
 
-- #### Padrões de Criação
+#### Padrões de Criação
 
   Esses padrões de design fornecem uma maneira de criar objetos enquanto esconde a lógica de criação, em vez de
   instanciar objetos diretamente usando o novo operador. Isso dá ao programa mais flexibilidade para decidir quais
   objetos precisam ser criados para um determinado caso de uso.
 
+- [Factory Pattern](doc/factory/README.md)
+- [Abstract Factory Pattern](doc/abstractfactory/README.md)
+- [Singleton Pattern](doc/singleton/README.md)
+- [Builder Pattern](doc/builder/README.md)
+- [Prototype Pattern](doc/prototype/README.md)
 
-- #### Padrões Estruturais
+#### Padrões Estruturais
 
-  Esses padrões de projeto dizem respeito à composição de classes e objetos. O conceito de herança é usado para compor
-  interfaces e definir formas de compor objetos para obter novos funcionalidades.
+Esses padrões de projeto dizem respeito à composição de classes e objetos. O conceito de herança é usado para compor
+interfaces e definir formas de compor objetos para obter novos funcionalidades.
 
+- [Adapter Pattern](doc/adapter/README.md)
+- [Bridge Pattern](doc/bridge/README.md)
+- [Filter or Criteria Pattern](doc/filter/README.md)
 
-- #### Padrões Comportamentais
+#### Padrões Comportamentais
 
-  Esses padrões de design estão especificamente preocupados com a comunicação entre objetos.
+Esses padrões de design estão especificamente preocupados com a comunicação entre objetos.
 
-- #### Links Exemplos
+#### Links Gerais
 
-- [Singleton Pattern](src/org/framework/rodolfo/freire/git/design/patterns/singleton/doc/README.md)
-- [Factory Pattern](src/org/framework/rodolfo/freire/git/design/patterns/factory/doc/README.md)
-- [Abstract Factory Pattern](src/org/framework/rodolfo/freire/git/design/patterns/abstractfactory/doc/README.md)
+- [Factory Pattern](doc/factory/README.md)
+- [Abstract Factory Pattern](doc/abstractfactory/README.md)
+- [Singleton Pattern](doc/singleton/README.md)
+- [Builder Pattern](doc/builder/README.md)
+- [Prototype Pattern](doc/prototype/README.md)
+- [Adapter Pattern](doc/adapter/README.md)
+- [Bridge Pattern](doc/bridge/README.md)
+- [Filter or Criteria Pattern](doc/filter/README.md)
